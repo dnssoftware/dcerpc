@@ -695,6 +695,7 @@ include/dce/ndr_rep.h
 include/dce/ndrtypes.h
 include/dce/sec_authn.h
 include/dce/aix5.2.0.0/Makefile
+include/dce/armv7l/Makefile
 include/dce/darwin/Makefile
 include/dce/linux-gnu/Makefile
 include/dce/freebsd6.0/Makefile
