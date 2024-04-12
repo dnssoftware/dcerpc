@@ -40,4 +40,4 @@ dceinclude_HEADERS=$(threadheaders) $(IDLHEADERS) $(osdepheaders) $(cpudepheader
 BUILT_SOURCES=$(IDLHEADERS)
 
 # The dist target needs to know to include these files too
-EXTRA_DIST=armv7l/* i386/* alpha/* AT386/* linux-gnu/* HP800/* sparc/* powerpc/* s390/* s390x/* solaris2.8/* solaris2.10/* darwin/* aix5.2.0.0/* x86_64/* generic/*
+EXTRA_DIST=aarch64/* armv7l/* i386/* alpha/* AT386/* linux-gnu/* HP800/* sparc/* powerpc/* s390/* s390x/* solaris2.8/* solaris2.10/* darwin/* aix5.2.0.0/* x86_64/* generic/*
